@@ -1,6 +1,6 @@
 # StructuredStreamingMongoDB
 
-This project focuses on end-to-end streaming data processing using Spark Structured Streaming and storing the result into MongoDB.
+This project focuses on end-to-end streaming data processing using Spark Structured Streaming and storing the result into MongoDB and vice-versa.
 
 A high level overview of the project would be:
 	a. Kafka Producer will read data from a streaming source and publish it into a Kafka Topic.
