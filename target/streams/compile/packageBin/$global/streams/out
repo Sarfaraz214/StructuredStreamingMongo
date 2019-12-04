@@ -1,0 +1,27 @@
+[0m[[0minfo[0m] [0mPackaging /home/knoldus/my-project/DataEnggProj1/target/scala-2.11/dataenggproj1_2.11-0.1.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	kafka/KafkaProducer.class[0m
+[0m[[0mdebug[0m] [0m	  /home/knoldus/my-project/DataEnggProj1/target/scala-2.11/classes/kafka/KafkaProducer.class[0m
+[0m[[0mdebug[0m] [0m	structuredStreaming/SparkConsumer.class[0m
+[0m[[0mdebug[0m] [0m	  /home/knoldus/my-project/DataEnggProj1/target/scala-2.11/classes/structuredStreaming/SparkConsumer.class[0m
+[0m[[0mdebug[0m] [0m	mongo/MongoDbReader$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/knoldus/my-project/DataEnggProj1/target/scala-2.11/classes/mongo/MongoDbReader$.class[0m
+[0m[[0mdebug[0m] [0m	structuredStreaming/SparkConsumer$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /home/knoldus/my-project/DataEnggProj1/target/scala-2.11/classes/structuredStreaming/SparkConsumer$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	kafka/KafkaProducer$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/knoldus/my-project/DataEnggProj1/target/scala-2.11/classes/kafka/KafkaProducer$.class[0m
+[0m[[0mdebug[0m] [0m	structuredStreaming/SparkConsumer$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/knoldus/my-project/DataEnggProj1/target/scala-2.11/classes/structuredStreaming/SparkConsumer$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	application.properties[0m
+[0m[[0mdebug[0m] [0m	  /home/knoldus/my-project/DataEnggProj1/target/scala-2.11/classes/application.properties[0m
+[0m[[0mdebug[0m] [0m	structuredStreaming[0m
+[0m[[0mdebug[0m] [0m	  /home/knoldus/my-project/DataEnggProj1/target/scala-2.11/classes/structuredStreaming[0m
+[0m[[0mdebug[0m] [0m	kafka[0m
+[0m[[0mdebug[0m] [0m	  /home/knoldus/my-project/DataEnggProj1/target/scala-2.11/classes/kafka[0m
+[0m[[0mdebug[0m] [0m	mongo/MongoDbReader.class[0m
+[0m[[0mdebug[0m] [0m	  /home/knoldus/my-project/DataEnggProj1/target/scala-2.11/classes/mongo/MongoDbReader.class[0m
+[0m[[0mdebug[0m] [0m	structuredStreaming/SparkConsumer$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/knoldus/my-project/DataEnggProj1/target/scala-2.11/classes/structuredStreaming/SparkConsumer$.class[0m
+[0m[[0mdebug[0m] [0m	mongo[0m
+[0m[[0mdebug[0m] [0m	  /home/knoldus/my-project/DataEnggProj1/target/scala-2.11/classes/mongo[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

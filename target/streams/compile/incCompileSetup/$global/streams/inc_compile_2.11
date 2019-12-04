@@ -1,0 +1,367 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/knoldus/my-project/DataEnggProj1/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.12
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+7 items
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> /home/knoldus/my-project/DataEnggProj1/target/scala-2.11/classes/kafka/KafkaProducer$.class
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> /home/knoldus/my-project/DataEnggProj1/target/scala-2.11/classes/kafka/KafkaProducer.class
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> /home/knoldus/my-project/DataEnggProj1/target/scala-2.11/classes/mongo/MongoDbReader$.class
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> /home/knoldus/my-project/DataEnggProj1/target/scala-2.11/classes/mongo/MongoDbReader.class
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> /home/knoldus/my-project/DataEnggProj1/target/scala-2.11/classes/structuredStreaming/SparkConsumer$$anonfun$1.class
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> /home/knoldus/my-project/DataEnggProj1/target/scala-2.11/classes/structuredStreaming/SparkConsumer$.class
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> /home/knoldus/my-project/DataEnggProj1/target/scala-2.11/classes/structuredStreaming/SparkConsumer.class
+binary dependencies:
+17 items
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> /home/knoldus/.ivy2/cache/com.fasterxml.jackson.core/jackson-core/bundles/jackson-core-2.7.9.jar
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> /home/knoldus/.ivy2/cache/com.fasterxml.jackson.core/jackson-databind/bundles/jackson-databind-2.6.7.1.jar
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> /home/knoldus/.ivy2/cache/com.typesafe/config/bundles/config-1.3.2.jar
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> /home/knoldus/.ivy2/cache/org.apache.kafka/kafka-clients/jars/kafka-clients-2.0.0.jar
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> /home/knoldus/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.12.jar
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> /home/knoldus/.ivy2/cache/com.typesafe/config/bundles/config-1.3.2.jar
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> /home/knoldus/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.4.4.jar
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> /home/knoldus/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.4.4.jar
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> /home/knoldus/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.12.jar
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> /home/knoldus/.ivy2/cache/com.typesafe/config/bundles/config-1.3.2.jar
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> /home/knoldus/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.4.4.jar
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> /home/knoldus/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.4.4.jar
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> /home/knoldus/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.4.4.jar
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> /home/knoldus/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.12.jar
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+7 items
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> kafka.KafkaProducer
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> kafka.KafkaProducer$
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> mongo.MongoDbReader
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> mongo.MongoDbReader$
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> structuredStreaming.SparkConsumer
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> structuredStreaming.SparkConsumer$
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> structuredStreaming.SparkConsumer$$anonfun$1
+used names:
+234 items
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> !=
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> <init>
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> Any
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> AnyRef
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> Array
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> Boolean
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> Config
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> ConfigFactory
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> Future
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> InputStream
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> Int
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> JsonFactory
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> JsonParser
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> JsonToken
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> KafkaProducer
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> Nothing
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> Object
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> ObjectCodec
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> ObjectMapper
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> Predef
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> ProducerConfig
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> ProducerRecord
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> Properties
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> RecordMetadata
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> String
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> T
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> TreeNode
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> URL
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> URLConnection
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> Unit
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> apache
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> api_endpoint
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> apply
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> args
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> clients
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> close
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> com
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> conf
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> config
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> core
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> createParser
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> databind
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> envProps
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> fasterxml
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> getConfig
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> getInputStream
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> getString
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> jackson
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> java
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> jsonFactoryObj
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> kafka
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> load
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> messageRecord
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> net
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> nextToken
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> openConnection
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> org
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> parserObj
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> println
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> producer
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> producerRecordObj
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> props
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> put
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> readValueAsTree
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> scala
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> send
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> toString
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> topicName
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> typesafe
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> url
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> util
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> while$1
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> +
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> <init>
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> Any
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> AnyRef
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> Array
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> ArrayType
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> Builder
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> Config
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> ConfigFactory
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> DataFrame
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> DataFrameReader
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> Int
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> MongoDbReader
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> Object
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> Predef
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> SparkSession
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> String
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> StringType
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> StructField
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> StructType
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> Unit
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> apache
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> appName
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> apply
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> args
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> builder
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> com
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> conf
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> config
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> createOrReplaceTempView
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> df
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> format
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> functions
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> getConfig
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> getOrCreate
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> getString
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> load
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> master
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> mongo
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> mongodb_uri
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> option
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> org
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> package
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> println
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> read
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> result
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> scala
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> show
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> spark
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> sql
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> types
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> typesafe
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> $
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> +
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> <init>
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> <repeated>
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> Any
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> AnyRef
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> Array
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> ArrayType
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> Boolean
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> Builder
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> Class
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> ClassTag
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> Column
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> ColumnName
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> Config
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> ConfigFactory
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> DataFrame
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> DataFrameWriter
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> DataStreamReader
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> DataStreamWriter
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> DataType
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> Dataset
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> Function2
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> Int
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> Long
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> Metadata
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> Nothing
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> Object
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> Predef
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> ProcessingTime
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> Properties
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> Row
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> RuntimeConfig
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> SparkConsumer
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> SparkContext
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> SparkSession
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> StreamingQuery
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> String
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> StringContext
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> StringToColumn
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> StringType
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> StructField
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> StructType
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> T
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> Trigger
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> Unit
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> _$7
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> apache
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> appName
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> apply
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> args
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> as
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> awaitTermination
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> batchDF
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> batchId
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> builder
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> cast
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> col
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> com
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> conf
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> config
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> dataDf
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> df
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> foreachBatch
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> format
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> from_json
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> functions
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> getConfig
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> getOrCreate
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> getString
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> implicits
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> java
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> lit
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> load
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> master
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> materializeClassTag
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> meetupDf1
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> meetupDf2
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> meetupDf3
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> meetup_rsvp_message_schema
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> mode
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> mongodb_uri
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> mysql_jdbc_url
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> option
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> org
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> outputMode
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> package
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> printSchema
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> println
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> readStream
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> result
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> save
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> scala
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> select
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> set
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> setLogLevel
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> spark
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> sparkContext
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> sql
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> start
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> streaming
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> structuredStreaming
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> topicName
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> trigger
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> types
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> typesafe
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> util
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> withColumn
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> write
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> writeStream
+product stamps:
+7 items
+/home/knoldus/my-project/DataEnggProj1/target/scala-2.11/classes/kafka/KafkaProducer$.class -> lastModified(1575439298000)
+/home/knoldus/my-project/DataEnggProj1/target/scala-2.11/classes/kafka/KafkaProducer.class -> lastModified(1575439297000)
+/home/knoldus/my-project/DataEnggProj1/target/scala-2.11/classes/mongo/MongoDbReader$.class -> lastModified(1575439298000)
+/home/knoldus/my-project/DataEnggProj1/target/scala-2.11/classes/mongo/MongoDbReader.class -> lastModified(1575439298000)
+/home/knoldus/my-project/DataEnggProj1/target/scala-2.11/classes/structuredStreaming/SparkConsumer$$anonfun$1.class -> lastModified(1575439329000)
+/home/knoldus/my-project/DataEnggProj1/target/scala-2.11/classes/structuredStreaming/SparkConsumer$.class -> lastModified(1575439329000)
+/home/knoldus/my-project/DataEnggProj1/target/scala-2.11/classes/structuredStreaming/SparkConsumer.class -> lastModified(1575439329000)
+source stamps:
+3 items
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> hash(c8780c5adb3be7f0383c79ec25d5e6c5f3746096)
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> hash(f9ed4782d5c4c80ed8cd2699ccd1b6168fc963d5)
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> hash(7461083b67609d2e8d94133a79e3792316660e10)
+binary stamps:
+9 items
+/home/knoldus/.ivy2/cache/com.fasterxml.jackson.core/jackson-core/bundles/jackson-core-2.7.9.jar -> lastModified(1486235924000)
+/home/knoldus/.ivy2/cache/com.fasterxml.jackson.core/jackson-databind/bundles/jackson-databind-2.6.7.1.jar -> lastModified(1499746409000)
+/home/knoldus/.ivy2/cache/com.typesafe/config/bundles/config-1.3.2.jar -> lastModified(1507298535000)
+/home/knoldus/.ivy2/cache/org.apache.kafka/kafka-clients/jars/kafka-clients-2.0.0.jar -> lastModified(1532443307000)
+/home/knoldus/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.4.4.jar -> lastModified(1566946724000)
+/home/knoldus/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.4.4.jar -> lastModified(1566946777000)
+/home/knoldus/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.4.4.jar -> lastModified(1566946709000)
+/home/knoldus/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.12.jar -> lastModified(1509673049000)
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> lastModified(1563475968000)
+class names:
+9 items
+/home/knoldus/.ivy2/cache/com.fasterxml.jackson.core/jackson-core/bundles/jackson-core-2.7.9.jar -> com.fasterxml.jackson.core.TreeNode
+/home/knoldus/.ivy2/cache/com.fasterxml.jackson.core/jackson-databind/bundles/jackson-databind-2.6.7.1.jar -> com.fasterxml.jackson.databind.ObjectMapper
+/home/knoldus/.ivy2/cache/com.typesafe/config/bundles/config-1.3.2.jar -> com.typesafe.config.Config
+/home/knoldus/.ivy2/cache/org.apache.kafka/kafka-clients/jars/kafka-clients-2.0.0.jar -> org.apache.kafka.clients.producer.ProducerConfig
+/home/knoldus/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.4.4.jar -> org.apache.spark.sql.types.ArrayType$
+/home/knoldus/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.4.4.jar -> org.apache.spark.SparkContext
+/home/knoldus/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.4.4.jar -> org.apache.spark.sql.streaming.DataStreamReader
+/home/knoldus/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.12.jar -> scala.reflect.package$
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+3 items
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwT/seYQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw+2lhxXQABm5vdGlmeXNxAH4ADMm4aXd0AAR3YWl0c3EAfgAM+ULLXHQADSRhc0luc3RhbmNlT2ZzcQB+AAxPdZspdAAGZXF1YWxzc3EAfgAMAuL8C3QADGFzSW5zdGFuY2VPZnNxAH4ADHTWzgt0AAxzeW5jaHJvbml6ZWRzcQB+AAwA42andAANJGlzSW5zdGFuY2VPZnNxAH4ADMYgY2l0AARtYWluc3EAfgAMEyqW3HQACW5vdGlmeUFsbHNxAH4ADGdk3CN0AAxpc0luc3RhbmNlT2ZzcQB+AAyoI+QFdAACPT1zcQB+AAym4mpodAAFY2xvbmVzcQB+AAwOjXpkdAAIdG9TdHJpbmdzcQB+AAzhOfLJdAACIT1zcQB+AAxh+zWSdAAIZ2V0Q2xhc3NzcQB+AAw+za3KdAACbmVzcQB+AAwpbieVdAACZXFzcQB+AAxucDj+dAACIyNzcQB+AAyXKc1CdAAIZmluYWxpemVzcQB+AAz1D3PldAAIaGFzaENvZGVzcQB+AAw4izjjdAANS2Fma2FQcm9kdWNlcnNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABNrYWZrYS5LYWZrYVByb2R1Y2VydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBZc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AXnNxAH4AWXVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AHXVxAH4AUQAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBddAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AeXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGZ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFR0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AG1bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AF1zcQB+AGx0AAVBcnJheXEAfgBydXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AGx0AAZTdHJpbmdzcQB+AHBzcQB+AHN1cQB+AHYAAAADc3EAfgB4dAAEamF2YXNxAH4AeHQABGxhbmdxAH4AfXNxAH4AWXVxAH4APAAAAABzcQB+AFl1cQB+AJEAAAACc3EAfgBsdAAGT2JqZWN0cQB+AJVzcQB+AGx0AANBbnlxAH4AcnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABWthZmthc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFuz3+Y1XVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEAvaG9tZS9rbm9sZHVzL215LXByb2plY3QvRGF0YUVuZ2dQcm9qMS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUyHgMWts75/A4PHnsJdXmxfN0YJY=
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwaLLzgAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwd2qT5nQABm5vdGlmeXNxAH4ADFV+/n10AAR3YWl0c3EAfgAMt+oNwnQADSRhc0luc3RhbmNlT2ZzcQB+AAxkoOpydAAGZXF1YWxzc3EAfgAMGlkFHHQADGFzSW5zdGFuY2VPZnNxAH4ADM5Ul7p0AAxzeW5jaHJvbml6ZWRzcQB+AAzjZezadAANJGlzSW5zdGFuY2VPZnNxAH4ADG77Juh0AARtYWluc3EAfgAMvxHvjHQACW5vdGlmeUFsbHNxAH4ADEsVkyR0AAxpc0luc3RhbmNlT2ZzcQB+AAzIBqXwdAACPT1zcQB+AAxKElZldAAFY2xvbmVzcQB+AAxd8pa0dAAIdG9TdHJpbmdzcQB+AAzSaDVpdAACIT1zcQB+AAzbild1dAAIZ2V0Q2xhc3NzcQB+AAwJ32UOdAACbmVzcQB+AAzSK12YdAANTW9uZ29EYlJlYWRlcnNxAH4ADGOXiuZ0AAJlcXNxAH4ADJ0yxO50AAIjI3NxAH4ADDF7oU10AAhmaW5hbGl6ZXNxAH4ADCbQq/p0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABNtb25nby5Nb25nb0RiUmVhZGVydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBZc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AXnNxAH4AWXVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AHXVxAH4AUQAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBddAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AeXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGZ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFR0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AG1bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AF1zcQB+AGx0AAVBcnJheXEAfgBydXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AGx0AAZTdHJpbmdzcQB+AHBzcQB+AHN1cQB+AHYAAAADc3EAfgB4dAAEamF2YXNxAH4AeHQABGxhbmdxAH4AfXNxAH4AWXVxAH4APAAAAABzcQB+AFl1cQB+AJEAAAACc3EAfgBsdAAGT2JqZWN0cQB+AJVzcQB+AGx0AANBbnlxAH4AcnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABW1vbmdvc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFuz3+Y1XVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEAvaG9tZS9rbm9sZHVzL215LXByb2plY3QvRGF0YUVuZ2dQcm9qMS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU+e1HgtXEyA7YzSaZzNG2Fo/JY9U=
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwMPZvawAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwauzV+HQABm5vdGlmeXNxAH4ADMoSsop0AAR3YWl0c3EAfgAMxa1IRHQADSRhc0luc3RhbmNlT2ZzcQB+AAxHyBSndAAGZXF1YWxzc3EAfgAMC0c5WXQADGFzSW5zdGFuY2VPZnNxAH4ADNIBGJV0AAxzeW5jaHJvbml6ZWRzcQB+AAyc9D1LdAANJGlzSW5zdGFuY2VPZnNxAH4ADNOZlrp0AARtYWluc3EAfgAMvX2SlXQACW5vdGlmeUFsbHNxAH4ADBAqhjF0AAxpc0luc3RhbmNlT2ZzcQB+AAwrFVIJdAACPT1zcQB+AAxkqY2ZdAAFY2xvbmVzcQB+AAxi51WLdAANU3BhcmtDb25zdW1lcnNxAH4ADKnkogp0AAh0b1N0cmluZ3NxAH4ADAiINOh0AAIhPXNxAH4ADJYjkWF0AAhnZXRDbGFzc3NxAH4ADFhkGrN0AAJuZXNxAH4ADFOIKGJ0AAJlcXNxAH4ADDryNlR0AAIjI3NxAH4ADERMkJx0AAhmaW5hbGl6ZXNxAH4ADNV+CA50AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ACFzdHJ1Y3R1cmVkU3RyZWFtaW5nLlNwYXJrQ29uc3VtZXJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFlzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQUwACWluaGVyaXRlZHEAfgBBTAAHcGFyZW50c3EAfgBBeHEAfgBec3EAfgBZdXEAfgA8AAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBCcQB+AEt1cQB+AEwAAAAAc3EAfgBOAHEAfgAddXEAfgBRAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AF10AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBdc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB5dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AZnhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AVHQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AbVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AXXNxAH4AbHQABUFycmF5cQB+AHJ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AbHQABlN0cmluZ3NxAH4AcHNxAH4Ac3VxAH4AdgAAAANzcQB+AHh0AARqYXZhc3EAfgB4dAAEbGFuZ3EAfgB9c3EAfgBZdXEAfgA8AAAAAHNxAH4AWXVxAH4AkQAAAAJzcQB+AGx0AAZPYmplY3RxAH4AlXNxAH4AbHQAA0FueXEAfgBydXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAATc3RydWN0dXJlZFN0cmVhbWluZ3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbs+AVml1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABAL2hvbWUva25vbGR1cy9teS1wcm9qZWN0L0RhdGFFbmdnUHJvajEvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFHRhCDtnYJ0ujZQTOnnjeSMWZg4Q
+external apis:
+0 items
+source infos:
+3 items
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/kafka/KafkaProducer.scala -> 
+AAAAAQAAAQAAAAkAWGltcG9ydCBvcmcuYXBhY2hlLmthZmthLmNsaWVudHMucHJvZHVjZXIue0thZmthUHJvZHVjZXIsIFByb2R1Y2VyQ29uZmlnLCBQcm9kdWNlclJlY29yZH0BAAAA9AEAAAAqAQAqICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgAQBPL2hvbWUva25vbGR1cy9teS1wcm9qZWN0L0RhdGFFbmdnUHJvajEvc3JjL21haW4vc2NhbGEva2Fma2EvS2Fma2FQcm9kdWNlci5zY2FsYQEATy9ob21lL2tub2xkdXMvbXktcHJvamVjdC9EYXRhRW5nZ1Byb2oxL3NyYy9tYWluL3NjYWxhL2thZmthL0thZmthUHJvZHVjZXIuc2NhbGEAZWltcG9ydGVkIGBLYWZrYVByb2R1Y2VyJyBpcyBwZXJtYW5lbnRseSBoaWRkZW4gYnkgZGVmaW5pdGlvbiBvZiBvYmplY3QgS2Fma2FQcm9kdWNlciBpbiBwYWNrYWdlIGthZmthAQAAAAA=
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/mongo/MongoDbReader.scala -> 
+AAAAAAAAAAA=
+/home/knoldus/my-project/DataEnggProj1/src/main/scala/structuredStreaming/SparkConsumer.scala -> 
+AAAAAAAAAAA=
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbs9/mNV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9ob21lL2tub2xkdXMvbXktcHJvamVjdC9EYXRhRW5nZ1Byb2oxL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbs+AVml1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9ob21lL2tub2xkdXMvbXktcHJvamVjdC9EYXRhRW5nZ1Byb2oxL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
